@@ -1,7 +1,7 @@
 resque-honeybadger
 ==================
 
-**NO LONGER MAINTAINED!**
+💀 **NO LONGER MAINTAINED!**
 
 Please upgrade the `honeybadger` gem to version 2.1 or later: it has built-in support for Resque.
 
